@@ -19,7 +19,7 @@ if(isset($_POST['submit'])) {
               echo "Uw kaartje is 5 euro";  
           }
           else {
-              echo "10 euro"; //hallo soufian
+              echo "10 euro";
           }
           }
           else {
